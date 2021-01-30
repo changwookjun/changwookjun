@@ -10,3 +10,4 @@ Here are some ideas to get you started:
 - 💬 facebook : https://www.facebook.com/changwookjun0
 - 📫 How to reach me: changwookjun@gmail.com
 - 😄 My book : https://github.com/NLP-kr/tensorflow-ml-nlp  
+- 😄 My book : https://github.com/NLP-kr/tensorflow-ml-nlp-tf2  
